@@ -1,22 +1,22 @@
+import json
 import requests
+
 from lxml import etree
 
 
-class neteaseMusicBot():
-    """部分使用cloud-music.pl-fe.cn这个api"""
-
+class kugouMusicBot():
     def __init__(self) -> None:
         pass
 
     def top(self):
         head = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
-            '(KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36'}
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'}
 
-        html = requests.get(
-            "https://music.163.com/#/discover/toplist?id=19723756", headers=head).text
-        print(html)
+        topJson = requests.get(
+            "http://m.kugou.com/rank/list&json=true", headers=head).text
+        jsonDict=json.loads(topJson)
+        
 
 
-bot = neteaseMusicBot()
+bot = kugouMusicBot()
 bot.top()

@@ -1,0 +1,2083 @@
+{
+    "JS_CSS_DATE": 20130320,
+    "kg_domain": "http:\/\/m.kugou.com",
+    "src": "http:\/\/downmobile.kugou.com\/promote\/package\/download\/channel=6",
+    "fr": null,
+    "ver": "v3",
+    "rank": {
+        "total": 46,
+        "list": [
+            {
+                "rank_cid": 67805,
+                "id": 2,
+                "rankname": "TOP500",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112175202472916.png",
+                "rankid": 8888,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019122517263545.jpg",
+                "intro": "数据来源：全曲库歌曲\r\n排序方式：按歌曲喜爱用户数的总量排序\r\n更新频率：每天",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220620\/20220620181810828991.jpg",
+                "play_times": 40398303,
+                "img_9": "",
+                "custom_type": 0,
+                "ranktype": 2,
+                "classify": 1,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "每天",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20181019\/20181019122516438289.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 72,
+                "img_cover": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211117\/20211117115003451494.png",
+                "songinfo": [
+                    {
+                        "name": "可能",
+                        "author": "程响",
+                        "songname": "程响 - 可能"
+                    },
+                    {
+                        "name": "姑娘在远方",
+                        "author": "柯柯柯啊",
+                        "songname": "柯柯柯啊 - 姑娘在远方"
+                    },
+                    {
+                        "name": "苦咖啡·唯一",
+                        "author": "那奇沃夫、KKECHO",
+                        "songname": "那奇沃夫、KKECHO - 苦咖啡·唯一"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20181019\/20181019122513972113.jpg"
+            },
+            {
+                "rank_cid": 67804,
+                "id": 1,
+                "rankname": "飙升榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112175144811731.png",
+                "rankid": 6666,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20190214\/20190214100333414437.jpg",
+                "intro": "数据来源：全曲库歌曲\r\n排序方式：按歌曲喜爱用户数的涨幅排序\r\n更新频率：每天",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230310\/20230310170100475689.jpg",
+                "play_times": 13761154,
+                "img_9": "",
+                "custom_type": 0,
+                "ranktype": 2,
+                "classify": 1,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "每天",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20190906\/20190906162522894877.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 72,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "嫁给老实人",
+                        "author": "郝美丽",
+                        "songname": "郝美丽 - 嫁给老实人"
+                    },
+                    {
+                        "name": "想要的人生",
+                        "author": "搁浅的鱼.",
+                        "songname": "搁浅的鱼. - 想要的人生"
+                    },
+                    {
+                        "name": "我会等",
+                        "author": "承桓",
+                        "songname": "承桓 - 我会等"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20190906\/20190906162520714932.jpg"
+            },
+            {
+                "rank_cid": 67803,
+                "id": 345,
+                "rankname": "蜂鸟流行音乐榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220623\/20220623150925871476.png",
+                "rankid": 59703,
+                "children": [],
+                "bannerurl": "",
+                "intro": "酷狗音乐发布蜂鸟流行音乐榜，以Z世代为视角，通过分析包括歌曲文艺程度、用户喜爱数等在内的海量大数据，打造年轻流行音乐榜单\r\n更新频率：每天",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230220\/20230220235003714575.jpg",
+                "play_times": 1597297,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220623\/20220623150922969639.png",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 1,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "每天",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220623\/20220623150919306087.png",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 72,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "苦咖啡·唯一",
+                        "author": "那奇沃夫、KKECHO",
+                        "songname": "那奇沃夫、KKECHO - 苦咖啡·唯一"
+                    },
+                    {
+                        "name": "BABYDOLL (Speed) (Explicit)",
+                        "author": "Ari Abdul",
+                        "songname": "Ari Abdul - BABYDOLL (Speed) (Explicit)"
+                    },
+                    {
+                        "name": "谁",
+                        "author": "曲肖冰",
+                        "songname": "曲肖冰 - 谁"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220623\/20220623150917121716.png"
+            },
+            {
+                "rank_cid": 67825,
+                "id": 309,
+                "rankname": "抖音热歌榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112175327168275.png",
+                "rankid": 52144,
+                "children": [],
+                "bannerurl": "",
+                "intro": "数据来源：抖音热门歌曲\r\n排序方式：按照歌曲热度排序\r\n更新频率：每周一",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220620\/20220620181810828991.jpg",
+                "play_times": 8547844,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210806\/20210806193317751530.png",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 1,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周一",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211217\/20211217143540832517.png",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 1,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "可能",
+                        "author": "程响",
+                        "songname": "程响 - 可能"
+                    },
+                    {
+                        "name": "雪 Distance",
+                        "author": "Capper、罗言RollFlash",
+                        "songname": "Capper、罗言RollFlash - 雪 Distance"
+                    },
+                    {
+                        "name": "姑娘在远方",
+                        "author": "柯柯柯啊",
+                        "songname": "柯柯柯啊 - 姑娘在远方"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210806\/20210806193314611523.png"
+            },
+            {
+                "rank_cid": 67823,
+                "id": 311,
+                "rankname": "快手热歌榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112175343850884.png",
+                "rankid": 52767,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20210813\/20210813121757693708.jpg",
+                "intro": "数据来源：快手热门歌曲\r\n排序方式：按照歌曲热度排序\r\n更新频率：每天",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230228\/20230228135501161155.jpg",
+                "play_times": 2647586,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211217\/20211217143652227085.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 1,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "每天",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210813\/20210813121756176400.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 1,
+                "issue": 72,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "舍离去",
+                        "author": "王子健",
+                        "songname": "王子健 - 舍离去"
+                    },
+                    {
+                        "name": "可能",
+                        "author": "程响",
+                        "songname": "程响 - 可能"
+                    },
+                    {
+                        "name": "三拜红尘凉",
+                        "author": "尹昔眠",
+                        "songname": "尹昔眠 - 三拜红尘凉"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211217\/20211217143649962754.jpg"
+            },
+            {
+                "rank_cid": 67736,
+                "id": 109,
+                "rankname": "DJ热歌榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112180428816873.png",
+                "rankid": 24971,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019122335144078.jpg",
+                "intro": "数据来源：DJ类歌曲\r\n排序方式：按歌曲喜爱用户数的总量排序\r\n更新频率：每周四",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20221118\/20221118152605822624.jpg",
+                "play_times": 11395996,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110172253953449.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 1,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周四",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20181019\/20181019122333384421.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "赐我 (DJ阿卓版)",
+                        "author": "一只白羊",
+                        "songname": "一只白羊 - 赐我 (DJ阿卓版)"
+                    },
+                    {
+                        "name": "听 (DJ阿哲版)",
+                        "author": "LF路飞",
+                        "songname": "LF路飞 - 听 (DJ阿哲版)"
+                    },
+                    {
+                        "name": "失控的心",
+                        "author": "娜依",
+                        "songname": "娜依 - 失控的心"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110172250218716.jpg"
+            },
+            {
+                "rank_cid": 67716,
+                "id": 265,
+                "rankname": "说唱先锋榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112185300288680.png",
+                "rankid": 44412,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20211021\/20211021121451321597.jpg",
+                "intro": "数据来源：说唱歌曲\r\n排序方式：说唱歌曲偏好用户中，按歌曲日均喜爱用户数排序\r\n更新频率：每周四",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230225\/20230225151455879650.jpg",
+                "play_times": 65238,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211015\/20211015000041777734.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 1,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周四",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211021\/20211021121450944386.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "佤咖啡",
+                        "author": "铁楠",
+                        "songname": "铁楠 - 佤咖啡"
+                    },
+                    {
+                        "name": "光与影",
+                        "author": "MANTA",
+                        "songname": "MANTA - 光与影"
+                    },
+                    {
+                        "name": "朋友 Friends",
+                        "author": "Capper、Cool-Aid陈轶伦",
+                        "songname": "Capper、Cool-Aid陈轶伦 - 朋友 Friends"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211015\/20211015000039682323.jpg"
+            },
+            {
+                "rank_cid": 67806,
+                "id": 35,
+                "rankname": "内地榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112175510473796.png",
+                "rankid": 31308,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019122310609161.jpg",
+                "intro": "数据来源：30天内发行的内地新歌\r\n排序方式：酷狗音乐的喜爱用户数和发行时间等综合评分排序取前100名\r\n更新频率：每周一至周五",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230310\/20230310170100475689.jpg",
+                "play_times": 1051333,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110173236811897.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 2,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "工作日",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110173234209146.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 51,
+                "img_cover": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211117\/20211117114613693049.jpg",
+                "songinfo": [
+                    {
+                        "name": "嫁给老实人",
+                        "author": "郝美丽",
+                        "songname": "郝美丽 - 嫁给老实人"
+                    },
+                    {
+                        "name": "5:23PM",
+                        "author": "宋亚轩",
+                        "songname": "宋亚轩 - 5:23PM"
+                    },
+                    {
+                        "name": "表白白",
+                        "author": "陆虎",
+                        "songname": "陆虎 - 表白白"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110173233607609.jpg"
+            },
+            {
+                "rank_cid": 67727,
+                "id": 119,
+                "rankname": "电音榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112185502385779.png",
+                "rankid": 33160,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019121749428993.jpg",
+                "intro": "数据来源：电音歌曲\r\n排序方式：电音歌曲偏好用户中，按歌曲日均喜爱用户数排序\r\n更新频率：每周四",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220329\/20220329094205916002.jpg",
+                "play_times": 329975,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110172333811545.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 5,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周四",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20181019\/20181019121747524588.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "BABYDOLL (Speed) (Explicit)",
+                        "author": "Ari Abdul",
+                        "songname": "Ari Abdul - BABYDOLL (Speed) (Explicit)"
+                    },
+                    {
+                        "name": "The Best Of Me",
+                        "author": "Dion Timmer、The Arcturians",
+                        "songname": "Dion Timmer、The Arcturians - The Best Of Me"
+                    },
+                    {
+                        "name": "In The Shadow Of The Sun",
+                        "author": "Professor Green",
+                        "songname": "Professor Green - In The Shadow Of The Sun"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110172330443978.jpg"
+            },
+            {
+                "rank_cid": 67810,
+                "id": 39,
+                "rankname": "香港地区榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112180038607846.png",
+                "rankid": 31313,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019122021568840.jpg",
+                "intro": "数据来源：90天内发行的香港地区新歌\r\n排序方式：酷狗音乐的喜爱用户数和发行时间等综合评分排序取前100名\r\n更新频率：每周一至周五",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230310\/20230310152904239838.jpg",
+                "play_times": 164525,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110173413183246.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 2,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "工作日",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110173412988476.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 51,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "尘大师",
+                        "author": "陈奕迅",
+                        "songname": "陈奕迅 - 尘大师"
+                    },
+                    {
+                        "name": "又十年",
+                        "author": "张学友",
+                        "songname": "张学友 - 又十年"
+                    },
+                    {
+                        "name": "踩界",
+                        "author": "明慧",
+                        "songname": "明慧 - 踩界"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110173410930698.jpg"
+            },
+            {
+                "rank_cid": 67725,
+                "id": 297,
+                "rankname": "民谣榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112185421213960.png",
+                "rankid": 51341,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20210618\/20210618141310314738.jpg",
+                "intro": "数据来源：民谣歌曲\r\n排序方式：民谣歌曲偏好用户中，按歌曲日均喜爱用户数排序\r\n更新频率：每周四",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20191210\/20191210102124464686.jpg",
+                "play_times": 114916,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110172410668031.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 5,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周四",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210726\/20210726153251881781.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 1,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "七月上",
+                        "author": "Jam",
+                        "songname": "Jam - 七月上"
+                    },
+                    {
+                        "name": "云烟成雨",
+                        "author": "房东的猫",
+                        "songname": "房东的猫 - 云烟成雨"
+                    },
+                    {
+                        "name": "碎银几两",
+                        "author": "轩东",
+                        "songname": "轩东 - 碎银几两"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110172407922177.jpg"
+            },
+            {
+                "rank_cid": 67822,
+                "id": 315,
+                "rankname": "台湾地区榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112180058808380.png",
+                "rankid": 54848,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20211110\/20211110173748430105.jpg",
+                "intro": "数据来源：90天内发行的台湾地区新歌\r\n排序方式：酷狗音乐的喜爱用户数和发行时间等综合评分排序取前100名\r\n更新频率：每周一至周五",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230302\/20230302150902213176.jpg",
+                "play_times": 18968,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110173749468229.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 2,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "工作日",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110173747430064.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 51,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "女孩 (Live)",
+                        "author": "欧阳娜娜",
+                        "songname": "欧阳娜娜 - 女孩 (Live)"
+                    },
+                    {
+                        "name": "伤心太平洋 (Live)",
+                        "author": "任贤齐",
+                        "songname": "任贤齐 - 伤心太平洋 (Live)"
+                    },
+                    {
+                        "name": "达尔文",
+                        "author": "林俊杰",
+                        "songname": "林俊杰 - 达尔文"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110173745189571.jpg"
+            },
+            {
+                "rank_cid": 67807,
+                "id": 36,
+                "rankname": "欧美榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112180200601680.png",
+                "rankid": 31310,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019122242395797.jpg",
+                "intro": "数据来源：30天内发行的欧美新歌\r\n排序方式：酷狗音乐的喜爱用户数和发行时间等综合评分排序取前100名\r\n更新频率：每周一至周五",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230309\/20230309070702207659.jpg",
+                "play_times": 296226,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110174015926493.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 2,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "工作日",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110174013484151.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 51,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "River",
+                        "author": "Miley Cyrus",
+                        "songname": "Miley Cyrus - River"
+                    },
+                    {
+                        "name": "Muddy Feet (Clean)",
+                        "author": "Miley Cyrus、Sia",
+                        "songname": "Miley Cyrus、Sia - Muddy Feet (Clean)"
+                    },
+                    {
+                        "name": "Jaded (Explicit)",
+                        "author": "Miley Cyrus",
+                        "songname": "Miley Cyrus - Jaded (Explicit)"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110174012258704.jpg"
+            },
+            {
+                "rank_cid": 67732,
+                "id": 123,
+                "rankname": "ACG新歌榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112180755701754.png",
+                "rankid": 33162,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20190911\/20190911195359896034.jpg",
+                "intro": "数据来源：120天内发行的ACG新歌\r\n排序方式：按歌曲热度、歌手等级和发行时间综合评分排序\r\n更新频率：每周四",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230303\/20230303202303136188.jpg",
+                "play_times": 23239,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110172516840313.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 5,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周四",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20190911\/20190911195358567855.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "意犹在",
+                        "author": "周深",
+                        "songname": "周深 - 意犹在"
+                    },
+                    {
+                        "name": "UNDER THE TREE",
+                        "author": "SiM",
+                        "songname": "SiM - UNDER THE TREE"
+                    },
+                    {
+                        "name": "遂愿",
+                        "author": "朱心怡、墨绛",
+                        "songname": "朱心怡、墨绛 - 遂愿"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110172513187588.jpg"
+            },
+            {
+                "rank_cid": 67808,
+                "id": 67,
+                "rankname": "韩国榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112180301782279.png",
+                "rankid": 31311,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019122200515578.jpg",
+                "intro": "数据来源：60天内发行的韩国乐坛新歌\r\n排序方式：酷狗音乐的喜爱用户数和发行时间等综合评分排序取前100名\r\n更新频率：每周一至周五",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230310\/20230310114702218237.jpg",
+                "play_times": 90962,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110174130453495.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 2,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "工作日",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110174129787539.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 51,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "SET ME FREE",
+                        "author": "TWICE",
+                        "songname": "TWICE - SET ME FREE"
+                    },
+                    {
+                        "name": "GOT THE THRILLS",
+                        "author": "TWICE",
+                        "songname": "TWICE - GOT THE THRILLS"
+                    },
+                    {
+                        "name": "CRAZY STUPID LOVE",
+                        "author": "TWICE",
+                        "songname": "TWICE - CRAZY STUPID LOVE"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110174128883916.jpg"
+            },
+            {
+                "rank_cid": 67809,
+                "id": 69,
+                "rankname": "日本榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112180343906494.png",
+                "rankid": 31312,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019122124188716.jpg",
+                "intro": "数据来源：90天内发行的日本乐坛新歌\r\n排序方式：酷狗音乐的喜爱用户数和发行时间等综合评分排序取前100名\r\n更新频率：每周一至周五",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230217\/20230217142110468352.jpg",
+                "play_times": 24616,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110174316588086.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 2,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "工作日",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110174314539497.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 51,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "UNDER THE TREE",
+                        "author": "SiM",
+                        "songname": "SiM - UNDER THE TREE"
+                    },
+                    {
+                        "name": "マネキン",
+                        "author": "DECO*27",
+                        "songname": "DECO*27 - マネキン"
+                    },
+                    {
+                        "name": "君とサイダー (feat. 初音ミク)",
+                        "author": "初音ミク、ARiN",
+                        "songname": "初音ミク、ARiN - 君とサイダー (feat. 初音ミク)"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20211110\/20211110174313329340.jpg"
+            },
+            {
+                "rank_cid": 67819,
+                "id": 279,
+                "rankname": "80后热歌榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112174930930724.png",
+                "rankid": 49225,
+                "children": [],
+                "bannerurl": "",
+                "intro": "排序方式：按年龄段的喜爱热度高低排序\r\n更新频率：每天",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20211126\/20211126151507932163.jpg",
+                "play_times": 1410400,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220322\/20220322172743270421.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 3,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "每天",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220322\/20220322172741703183.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 72,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "天地龙鳞",
+                        "author": "王力宏",
+                        "songname": "王力宏 - 天地龙鳞"
+                    },
+                    {
+                        "name": "又十年",
+                        "author": "张学友",
+                        "songname": "张学友 - 又十年"
+                    },
+                    {
+                        "name": "生于人间何罪之有",
+                        "author": "魏佳艺",
+                        "songname": "魏佳艺 - 生于人间何罪之有"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220322\/20220322172627294764.jpg"
+            },
+            {
+                "rank_cid": 67818,
+                "id": 281,
+                "rankname": "90后热歌榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112174949199742.png",
+                "rankid": 49223,
+                "children": [],
+                "bannerurl": "",
+                "intro": "排序方式：按年龄段的喜爱热度高低排序\r\n更新频率：每天",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220620\/20220620181810828991.jpg",
+                "play_times": 792534,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220322\/20220322174144879138.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 3,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "每天",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220322\/20220322174142950127.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 72,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "可能",
+                        "author": "程响",
+                        "songname": "程响 - 可能"
+                    },
+                    {
+                        "name": "天地龙鳞",
+                        "author": "王力宏",
+                        "songname": "王力宏 - 天地龙鳞"
+                    },
+                    {
+                        "name": "匆匆走完这一生",
+                        "author": "张茜",
+                        "songname": "张茜 - 匆匆走完这一生"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220322\/20220322174139290728.jpg"
+            },
+            {
+                "rank_cid": 67820,
+                "id": 283,
+                "rankname": "00后热歌榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112175003333610.png",
+                "rankid": 49224,
+                "children": [],
+                "bannerurl": "",
+                "intro": "排序方式：按年龄段的喜爱热度高低排序\r\n更新频率：每天",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230203\/20230203191118571222.jpg",
+                "play_times": 526941,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220322\/20220322174312384956.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 3,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "每天",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220322\/20220322174310817048.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 72,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "我会等",
+                        "author": "承桓",
+                        "songname": "承桓 - 我会等"
+                    },
+                    {
+                        "name": "5:23PM",
+                        "author": "宋亚轩",
+                        "songname": "宋亚轩 - 5:23PM"
+                    },
+                    {
+                        "name": "忘了",
+                        "author": "周林枫",
+                        "songname": "周林枫 - 忘了"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220322\/20220322174307426455.jpg"
+            },
+            {
+                "rank_cid": 67698,
+                "id": 38,
+                "rankname": "粤语金曲榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112182815519220.png",
+                "rankid": 33165,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019121613673415.jpg",
+                "intro": "数据来源：粤语歌曲\r\n排序方式：按歌曲完整播放日均量排序\r\n更新频率：每周三",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220323\/20220323142514271171.jpg",
+                "play_times": 1037598,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110173603405830.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 3,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周三",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20181019\/20181019121611360472.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "晚风心里吹 (DJ R7版)",
+                        "author": "阿梨粤",
+                        "songname": "阿梨粤 - 晚风心里吹 (DJ R7版)"
+                    },
+                    {
+                        "name": "讲不出再见",
+                        "author": "谭咏麟",
+                        "songname": "谭咏麟 - 讲不出再见"
+                    },
+                    {
+                        "name": "初恋情人",
+                        "author": "刘小慧",
+                        "songname": "刘小慧 - 初恋情人"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110173601503618.jpg"
+            },
+            {
+                "rank_cid": 67699,
+                "id": 193,
+                "rankname": "欧美金曲榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112182840988260.png",
+                "rankid": 33166,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019121546998825.jpg",
+                "intro": "数据来源：英语\/西班牙语\/葡萄牙语\/法语\/德语歌曲\r\n排序方式：按歌曲完整播放日均量排序\r\n更新频率：每周三",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200909\/20200909121952664759.jpg",
+                "play_times": 273754,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110173636666354.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 3,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周三",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20181019\/20181019121544655833.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "In The Shadow Of The Sun",
+                        "author": "Professor Green",
+                        "songname": "Professor Green - In The Shadow Of The Sun"
+                    },
+                    {
+                        "name": "Shadow Of The Sun (Adventure Club Remix)",
+                        "author": "Max Elto",
+                        "songname": "Max Elto - Shadow Of The Sun (Adventure Club Remix)"
+                    },
+                    {
+                        "name": "BABYDOLL (Explicit)",
+                        "author": "Ari Abdul",
+                        "songname": "Ari Abdul - BABYDOLL (Explicit)"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110173632620715.jpg"
+            },
+            {
+                "rank_cid": 67697,
+                "id": 77,
+                "rankname": "影视金曲榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112182855975994.png",
+                "rankid": 33163,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019121704873377.jpg",
+                "intro": "数据来源：影视歌曲\r\n排序方式：影视歌曲偏好用户中，按歌曲日均喜爱用户数排序\r\n更新频率：每周三",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20170629\/20170629224859420458.jpg",
+                "play_times": 119100,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110173708277651.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 3,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周三",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20181019\/20181019121701875027.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "桃花诺",
+                        "author": "G.E.M. 邓紫棋",
+                        "songname": "G.E.M. 邓紫棋 - 桃花诺"
+                    },
+                    {
+                        "name": "听",
+                        "author": "张杰",
+                        "songname": "张杰 - 听"
+                    },
+                    {
+                        "name": "去有风的地方",
+                        "author": "郁可唯",
+                        "songname": "郁可唯 - 去有风的地方"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110173705332402.jpg"
+            },
+            {
+                "rank_cid": 67693,
+                "id": 295,
+                "rankname": "伤感榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112182915645909.png",
+                "rankid": 51340,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20210618\/20210618141117797248.jpg",
+                "intro": "数据来源：伤感歌曲，包括抒情伤怀、孤单寂寞和失恋类型的歌曲\r\n排序方式：伤感歌曲偏好用户中，按歌曲日均喜爱用户数排序\r\n更新频率：每周三",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230227\/20230227171013638040.jpg",
+                "play_times": 376850,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110173746982561.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 3,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周三",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210726\/20210726153454517156.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 1,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "海与天",
+                        "author": "余又",
+                        "songname": "余又 - 海与天"
+                    },
+                    {
+                        "name": "兰亭序",
+                        "author": "周杰伦",
+                        "songname": "周杰伦 - 兰亭序"
+                    },
+                    {
+                        "name": "桃花诺",
+                        "author": "G.E.M. 邓紫棋",
+                        "songname": "G.E.M. 邓紫棋 - 桃花诺"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110173743163659.jpg"
+            },
+            {
+                "rank_cid": 67802,
+                "id": 215,
+                "rankname": "会员专享榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112182947255821.png",
+                "rankid": 35811,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20190311\/20190311103837451504.png",
+                "intro": "数据来源：酷狗会员歌曲\r\n排序方式：按会员中付费歌曲的喜爱人数和飙升幅度综合排名\r\n更新频率：每天",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20180324\/20180324171350812239.jpg",
+                "play_times": 188217,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110174758793077.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 3,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周一",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20190311\/20190311103835919973.png",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 72,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "All For Love",
+                        "author": "Tungevaag、Raaban、Richard Smitt",
+                        "songname": "Tungevaag、Raaban、Richard Smitt - All For Love"
+                    },
+                    {
+                        "name": "百年孤寂 (新版)",
+                        "author": "魏晗（懋懋）",
+                        "songname": "魏晗（懋懋） - 百年孤寂 (新版)"
+                    },
+                    {
+                        "name": "怎么会慢慢走散",
+                        "author": "陆杰awr、袁小葳",
+                        "songname": "陆杰awr、袁小葳 - 怎么会慢慢走散"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110174755711033.jpg"
+            },
+            {
+                "rank_cid": 67811,
+                "id": 227,
+                "rankname": "雷达榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112183008512213.png",
+                "rankid": 37361,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20190808\/20190808200005885980.jpg",
+                "intro": "数据来源：浮浮雷达+酷狗听歌识曲\r\n排序方式：按近一周识曲用户数排序\r\n更新频率：每周一至周五",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220620\/20220620181810828991.jpg",
+                "play_times": 40244,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110174035666943.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 3,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "工作日",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20190808\/20190808200003312447.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 51,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "可能",
+                        "author": "程响",
+                        "songname": "程响 - 可能"
+                    },
+                    {
+                        "name": "忘了",
+                        "author": "周林枫",
+                        "songname": "周林枫 - 忘了"
+                    },
+                    {
+                        "name": "苦咖啡·唯一",
+                        "author": "那奇沃夫、KKECHO",
+                        "songname": "那奇沃夫、KKECHO - 苦咖啡·唯一"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110174032634577.jpg"
+            },
+            {
+                "rank_cid": 67695,
+                "id": 275,
+                "rankname": "综艺新歌榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112183043219580.png",
+                "rankid": 46910,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20201109\/20201109170517558959.jpg",
+                "intro": "数据来源：60天内发行的综艺新歌\r\n排序方式：按歌曲热度、歌手等级和发行时间综合评分排序\r\n更新频率：每周三",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230302\/20230302150902213176.jpg",
+                "play_times": 34426,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110174144213125.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 3,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周三",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20201109\/20201109170516777658.png",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "约定 (Live)",
+                        "author": "周蕙",
+                        "songname": "周蕙 - 约定 (Live)"
+                    },
+                    {
+                        "name": "桥边姑娘 (Live)",
+                        "author": "任贤齐",
+                        "songname": "任贤齐 - 桥边姑娘 (Live)"
+                    },
+                    {
+                        "name": "伤心太平洋 (Live)",
+                        "author": "任贤齐",
+                        "songname": "任贤齐 - 伤心太平洋 (Live)"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110174141989249.jpg"
+            },
+            {
+                "rank_cid": 67821,
+                "id": 167,
+                "rankname": "酷狗音乐人原创榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220117\/20220117163024782170.png",
+                "rankid": 30972,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20210125\/20210125161120160525.jpg",
+                "intro": "酷狗音乐人原创作品官方榜单，以推荐优秀原创作品为目的，按歌曲热度和收藏转化等维度排序，每天更新。",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20221217\/20221217220355408949.jpg",
+                "play_times": 20157,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110174213907074.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 3,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "每天",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210125\/20210125161119250170.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 72,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "想不通",
+                        "author": "K.D",
+                        "songname": "K.D - 想不通"
+                    },
+                    {
+                        "name": "992",
+                        "author": "橙汁",
+                        "songname": "橙汁 - 992"
+                    },
+                    {
+                        "name": "Blue___.",
+                        "author": "江语",
+                        "songname": "江语 - Blue___."
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220110\/20220110174210939378.jpg"
+            },
+            {
+                "rank_cid": 67664,
+                "id": 339,
+                "rankname": "闽南语榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220607\/20220607152041564464.png",
+                "rankid": 60170,
+                "children": [],
+                "bannerurl": "",
+                "intro": "数据来源：闽南语歌曲\r\n排序方式：按歌曲日均喜爱用户数排序\r\n更新频率：每周二",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20211123\/20211123190549168709.jpg",
+                "play_times": 29147,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220607\/20220607152225967638.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 3,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周二",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220607\/20220607152221266024.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "闪无路",
+                        "author": "黄乙玲",
+                        "songname": "黄乙玲 - 闪无路"
+                    },
+                    {
+                        "name": "爱情一阵风",
+                        "author": "林翠萍",
+                        "songname": "林翠萍 - 爱情一阵风"
+                    },
+                    {
+                        "name": "你无情无义",
+                        "author": "林翠萍",
+                        "songname": "林翠萍 - 你无情无义"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220607\/20220607152036744096.jpg"
+            },
+            {
+                "rank_cid": 67667,
+                "id": 347,
+                "rankname": "儿歌榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20221227\/20221227161137554607.png",
+                "rankid": 65234,
+                "children": [],
+                "bannerurl": "",
+                "intro": "排序方式：按儿童歌曲日均喜爱用户数排序\r\n更新频率：每周二",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20160909\/20160909080620131392.jpg",
+                "play_times": 36877,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20221227\/20221227161133719876.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 3,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周二",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20221227\/20221227161130512669.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "小宝贝快快睡",
+                        "author": "时翔云",
+                        "songname": "时翔云 - 小宝贝快快睡"
+                    },
+                    {
+                        "name": "妈妈爱我，我爱妈妈",
+                        "author": "太空小狮子",
+                        "songname": "太空小狮子 - 妈妈爱我，我爱妈妈"
+                    },
+                    {
+                        "name": "学习雷锋好榜样",
+                        "author": "小蓓蕾组合",
+                        "songname": "小蓓蕾组合 - 学习雷锋好榜样"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20221227\/20221227161127669940.jpg"
+            },
+            {
+                "rank_cid": 67701,
+                "id": 10,
+                "rankname": "美国BillBoard榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112181537635196.png",
+                "rankid": 4681,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019121340103598.jpg",
+                "intro": "数据来源：美国Billboard Top100\r\n排序方式：根据歌曲在美国的实体销量、电台播放量、流媒体下载量等指标进行排序\r\n更新频率：每周三",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230224\/20230224101610169349.jpg",
+                "play_times": 71251,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180224544189.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 4,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周三",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20181019\/20181019121339813327.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "Die For You (Remix)",
+                        "author": "The Weeknd、Ariana Grande",
+                        "songname": "The Weeknd、Ariana Grande - Die For You (Remix)"
+                    },
+                    {
+                        "name": "Flowers",
+                        "author": "Miley Cyrus",
+                        "songname": "Miley Cyrus - Flowers"
+                    },
+                    {
+                        "name": "Kill Bill",
+                        "author": "SZA",
+                        "songname": "SZA - Kill Bill"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180223443800.jpg"
+            },
+            {
+                "rank_cid": 67702,
+                "id": 153,
+                "rankname": "Beatport电子舞曲榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112181554865370.png",
+                "rankid": 25028,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20170223\/20170223182819501244.jpg",
+                "intro": "数据来源：Beatport音乐网站\r\n排序方式：根据Beatport网站上的播放次数计算排序\r\n更新频率：每周三",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230211\/20230211054020796732.jpg",
+                "play_times": 14539,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210813\/20210813140907176359.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 4,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周三",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20170223\/20170223182818350949.png",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "Rhyme Dust",
+                        "author": "MK、Dom Dolla",
+                        "songname": "MK、Dom Dolla - Rhyme Dust"
+                    },
+                    {
+                        "name": "Where You Are",
+                        "author": "John Summit、Hayla",
+                        "songname": "John Summit、Hayla - Where You Are"
+                    },
+                    {
+                        "name": "Turn On The Lights again.. (remix：Anyma)",
+                        "author": "Fred again..、Swedish House Mafia、Future",
+                        "songname": "Fred again..、Swedish House Mafia、Future - Turn On The Lights again.. (remix：Anyma)"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210813\/20210813140906470933.jpg"
+            },
+            {
+                "rank_cid": 67826,
+                "id": 12,
+                "rankname": "英国单曲榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112181644889766.png",
+                "rankid": 4680,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019121317188050.jpg",
+                "intro": "数据来源：英国Single Chart Top 40\r\n排序方式：根据歌曲在英国的一周销量进行排序\r\n更新频率：每周一",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230113\/20230113072008584732.jpg",
+                "play_times": 19979,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180312952034.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 4,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周一",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20181019\/20181019121316839345.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 11,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "Flowers",
+                        "author": "Miley Cyrus",
+                        "songname": "Miley Cyrus - Flowers"
+                    },
+                    {
+                        "name": "Boy's a liar (Explicit)",
+                        "author": "PinkPantheress",
+                        "songname": "PinkPantheress - Boy's a liar (Explicit)"
+                    },
+                    {
+                        "name": "Die For You",
+                        "author": "The Weeknd",
+                        "songname": "The Weeknd - Die For You"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180311445477.jpg"
+            },
+            {
+                "rank_cid": 67827,
+                "id": 9,
+                "rankname": "韩国Melon音乐榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112181946586976.png",
+                "rankid": 38623,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019121225649566.jpg",
+                "intro": "数据来源：韩国Melon\r\n排序方式：根据Melon的销售、下载、播放等指标进行排序\r\n更新频率：每周一",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230102\/20230102114406150993.jpg",
+                "play_times": 19582,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180514209064.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 4,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周一",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20191021\/20191021201705225728.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 11,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "Ditto",
+                        "author": "NewJeans (뉴진스)",
+                        "songname": "NewJeans (뉴진스) - Ditto"
+                    },
+                    {
+                        "name": "OMG",
+                        "author": "NewJeans (뉴진스)",
+                        "songname": "NewJeans (뉴진스) - OMG"
+                    },
+                    {
+                        "name": "Hype Boy",
+                        "author": "NewJeans (뉴진스)",
+                        "songname": "NewJeans (뉴진스) - Hype Boy"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180513682585.jpg"
+            },
+            {
+                "rank_cid": 67762,
+                "id": 251,
+                "rankname": "joox本地热歌榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112182022801936.png",
+                "rankid": 42807,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20200320\/20200320185608883318.jpg",
+                "intro": "数据来源：JOOX平台\r\n排序方式：根据JOOX播放等指标进行排序\r\n更新频率：每周五",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230220\/20230220223708439921.jpg",
+                "play_times": 15491,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180413341778.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 4,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周五",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20200320\/20200320185607939528.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "Money",
+                        "author": "卢瀚霆",
+                        "songname": "卢瀚霆 - Money"
+                    },
+                    {
+                        "name": "世一 (不可一世)",
+                        "author": "MC 张天赋、Kiri T",
+                        "songname": "MC 张天赋、Kiri T - 世一 (不可一世)"
+                    },
+                    {
+                        "name": "再见 宁静海",
+                        "author": "陈卓贤",
+                        "songname": "陈卓贤 - 再见 宁静海"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180412417965.jpg"
+            },
+            {
+                "rank_cid": 67666,
+                "id": 217,
+                "rankname": "小语种热歌榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112182207909276.png",
+                "rankid": 36107,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20190403\/20190403162620781596.jpg",
+                "intro": "数据来源：“法语+德语+俄语+意大利语+西班牙语+葡萄牙语+瑞典语+拉丁语+印度语+小语种”语言下歌曲\r\n排序方式：按歌曲日均喜爱用户数排序\r\n更新频率：每周二",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220811\/20220811033802383209.jpg",
+                "play_times": 17648,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210817\/20210817162648736452.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 4,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周二",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210817\/20210817162646440742.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "Xanadu",
+                        "author": "Ummet Ozcan",
+                        "songname": "Ummet Ozcan - Xanadu"
+                    },
+                    {
+                        "name": "ТАМАДА (remix：DJ Mexx、DJ Dikson)",
+                        "author": "Miyagi、Эндшпиль、Al l Bo、Wooshendoo",
+                        "songname": "Miyagi、Эндшпиль、Al l Bo、Wooshendoo - ТАМАДА (remix：DJ Mexx、DJ Dikson)"
+                    },
+                    {
+                        "name": "Copilot",
+                        "author": "Helene Fischer",
+                        "songname": "Helene Fischer - Copilot"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210817\/20210817162644286508.jpg"
+            },
+            {
+                "rank_cid": 67764,
+                "id": 8,
+                "rankname": "日本公信榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112182321514349.png",
+                "rankid": 4673,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20181019\/20181019121251431378.jpg",
+                "intro": "数据来源：日本Oricon Top20\r\n排序方式：根据日本实体CD销量进行排序\r\n更新频率：每周五",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230102\/20230102114406150993.jpg",
+                "play_times": 3072,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180657868922.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 4,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周五",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20181019\/20181019121248478803.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "OMG",
+                        "author": "NewJeans (뉴진스)",
+                        "songname": "NewJeans (뉴진스) - OMG"
+                    },
+                    {
+                        "name": "Life goes on",
+                        "author": "King & Prince",
+                        "songname": "King & Prince - Life goes on"
+                    },
+                    {
+                        "name": "Subtitle",
+                        "author": "Official髭男dism (OFFICIAL HIGE DANDISM)",
+                        "songname": "Official髭男dism (OFFICIAL HIGE DANDISM) - Subtitle"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180655930286.jpg"
+            },
+            {
+                "rank_cid": 67765,
+                "id": 273,
+                "rankname": "日本SPACE SHOWER榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112182338294233.png",
+                "rankid": 46868,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20201028\/20201028152647239085.jpg",
+                "intro": "数据来源：日本音乐频道 SPACE SHOWER TV\r\n排序方式：根据SPACE SHOWER频道上的播放次数计算排序\r\n更新频率：每周五",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20221221\/20221221114101477858.jpg",
+                "play_times": 1510,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180947808622.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 4,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周五",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20201028\/20201028152646615355.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 9,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "リンジュー・ラヴ",
+                        "author": "マカロニえんぴつ",
+                        "songname": "マカロニえんぴつ - リンジュー・ラヴ"
+                    },
+                    {
+                        "name": "アイラブユー (我爱你)",
+                        "author": "back number",
+                        "songname": "back number - アイラブユー (我爱你)"
+                    },
+                    {
+                        "name": "蒲公英",
+                        "author": "幾田りら",
+                        "songname": "幾田りら - 蒲公英"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180946131853.jpg"
+            },
+            {
+                "rank_cid": 67763,
+                "id": 253,
+                "rankname": "KKBOX风云榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220112\/20220112182509814250.png",
+                "rankid": 42808,
+                "children": [],
+                "bannerurl": "http:\/\/imge.kugou.com\/mcommonbanner\/{size}\/20210310\/20210310161810367993.jpg",
+                "intro": "数据来源：KKBOX平台\r\n排序方式：根据KKBOX播放等指标进行排序\r\n更新频率：每周五",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20230213\/20230213131913779768.jpg",
+                "play_times": 4536,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180834806222.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 4,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周五",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210310\/20210310161809747097.jpg",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "一念之间",
+                        "author": "告五人",
+                        "songname": "告五人 - 一念之间"
+                    },
+                    {
+                        "name": "情勒 GASLIGHT (Explicit)",
+                        "author": "Marz23、ØZI",
+                        "songname": "Marz23、ØZI - 情勒 GASLIGHT (Explicit)"
+                    },
+                    {
+                        "name": "带你飞",
+                        "author": "告五人",
+                        "songname": "告五人 - 带你飞"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20210319\/20210319180832806920.jpg"
+            },
+            {
+                "rank_cid": 67665,
+                "id": 341,
+                "rankname": "越南语榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220607\/20220607154647691236.png",
+                "rankid": 60171,
+                "children": [],
+                "bannerurl": "",
+                "intro": "数据来源：越南语歌曲\r\n排序方式：按歌曲日均喜爱用户数排序\r\n更新频率：每周二",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20210814\/20210814081012715042.jpg",
+                "play_times": 7825,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220607\/20220607154644379689.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 4,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周二",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220607\/20220607160924294480.png",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "Dạ Vũ (夜舞)",
+                        "author": "Tăng Duy Tân、BAE",
+                        "songname": "Tăng Duy Tân、BAE - Dạ Vũ (夜舞)"
+                    },
+                    {
+                        "name": "BEN TREN TANG LAU (楼上) (Ver 2)",
+                        "author": "Tăng Duy Tân",
+                        "songname": "Tăng Duy Tân - BEN TREN TANG LAU (楼上) (Ver 2)"
+                    },
+                    {
+                        "name": "Ai Khóc Cho Em (Remix)",
+                        "author": "Nes Media、Huyền Zoe、TVk",
+                        "songname": "Nes Media、Huyền Zoe、TVk - Ai Khóc Cho Em (Remix)"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220607\/20220607154640166212.jpg"
+            },
+            {
+                "rank_cid": 67670,
+                "id": 343,
+                "rankname": "泰语榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220607\/20220607160847495424.png",
+                "rankid": 60172,
+                "children": [],
+                "bannerurl": "",
+                "intro": "数据来源：泰语歌曲\r\n排序方式：按歌曲日均喜爱用户数排序\r\n更新频率：每周二",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220823\/20220823140901922721.jpg",
+                "play_times": 4448,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220607\/20220607160845571703.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 4,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周二",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220607\/20220607160843339942.png",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "Never Say (From Love in The Air)",
+                        "author": "Fort Thitipong、Peat Wasuthorn",
+                        "songname": "Fort Thitipong、Peat Wasuthorn - Never Say (From Love in The Air)"
+                    },
+                    {
+                        "name": "My Strongest Love (From Love in The Air)",
+                        "author": "Boss Chaikamon、Noeul Nuttarat",
+                        "songname": "Boss Chaikamon、Noeul Nuttarat - My Strongest Love (From Love in The Air)"
+                    },
+                    {
+                        "name": "ไม่ปล่อยมือ (Coming of Age)",
+                        "author": "Billkin、PP",
+                        "songname": "Billkin、PP - ไม่ปล่อยมือ (Coming of Age)"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220607\/20220607160840213350.jpg"
+            },
+            {
+                "rank_cid": 67729,
+                "id": 327,
+                "rankname": "R&B榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526154506471406.png",
+                "rankid": 59895,
+                "children": [],
+                "bannerurl": "",
+                "intro": "数据来源：R&B歌曲\r\n排序方式：R&B歌曲偏好用户中，按歌曲日均喜爱用户数排序\r\n更新频率：每周四",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20150718\/20150718040142889268.jpg",
+                "play_times": 11771,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526154504388039.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 5,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周四",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526154502223250.png",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "想太多",
+                        "author": "李玖哲",
+                        "songname": "李玖哲 - 想太多"
+                    },
+                    {
+                        "name": "单车恋人",
+                        "author": "后弦",
+                        "songname": "后弦 - 单车恋人"
+                    },
+                    {
+                        "name": "回到过去",
+                        "author": "周杰伦",
+                        "songname": "周杰伦 - 回到过去"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526173021160911.jpg"
+            },
+            {
+                "rank_cid": 67731,
+                "id": 329,
+                "rankname": "摇滚榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526175153586400.png",
+                "rankid": 59896,
+                "children": [],
+                "bannerurl": "",
+                "intro": "数据来源：摇滚歌曲\r\n排序方式：摇滚歌曲偏好用户中，按歌曲日均喜爱用户数排序\r\n更新频率：每周四",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20150720\/20150720143422294422.jpg",
+                "play_times": 40495,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526175150308579.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 5,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周四",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526175148858661.png",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "有多少爱可以重来",
+                        "author": "迪克牛仔",
+                        "songname": "迪克牛仔 - 有多少爱可以重来"
+                    },
+                    {
+                        "name": "不再犹豫",
+                        "author": "BEYOND",
+                        "songname": "BEYOND - 不再犹豫"
+                    },
+                    {
+                        "name": "冷雨夜",
+                        "author": "BEYOND",
+                        "songname": "BEYOND - 冷雨夜"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526175341886231.jpg"
+            },
+            {
+                "rank_cid": 67730,
+                "id": 331,
+                "rankname": "爵士榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526180332713906.png",
+                "rankid": 59897,
+                "children": [],
+                "bannerurl": "",
+                "intro": "数据来源：爵士歌曲\r\n排序方式：按歌曲日均喜爱用户数排序\r\n更新频率：每周四",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20150719\/20150719050646709071.jpg",
+                "play_times": 4572,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526180330726406.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 5,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周四",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526180328421377.png",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "The Treasure",
+                        "author": "Bernward Koch",
+                        "songname": "Bernward Koch - The Treasure"
+                    },
+                    {
+                        "name": "Cosa Hai Messo Nel Caffe (Explicit)",
+                        "author": "小野丽莎",
+                        "songname": "小野丽莎 - Cosa Hai Messo Nel Caffe (Explicit)"
+                    },
+                    {
+                        "name": "Secret Love",
+                        "author": "Janet Seidel",
+                        "songname": "Janet Seidel - Secret Love"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526180325307871.jpg"
+            },
+            {
+                "rank_cid": 67734,
+                "id": 333,
+                "rankname": "乡村音乐榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526181211477452.png",
+                "rankid": 59898,
+                "children": [],
+                "bannerurl": "",
+                "intro": "数据来源：乡村音乐歌曲\r\n排序方式：按歌曲日均喜爱用户数排序\r\n更新频率：每周四",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20160908\/20160908060913143574.jpg",
+                "play_times": 6200,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526181209836539.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 5,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周四",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526181207153447.png",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "Don't Breathe",
+                        "author": "Brad Paisley",
+                        "songname": "Brad Paisley - Don't Breathe"
+                    },
+                    {
+                        "name": "One More Drinkin' Song (Mistletoe Mix)",
+                        "author": "Jerrod Niemann",
+                        "songname": "Jerrod Niemann - One More Drinkin' Song (Mistletoe Mix)"
+                    },
+                    {
+                        "name": "Not The Only Thing Blue",
+                        "author": "Charlie Landsborough",
+                        "songname": "Charlie Landsborough - Not The Only Thing Blue"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526181205535035.jpg"
+            },
+            {
+                "rank_cid": 67733,
+                "id": 335,
+                "rankname": "纯音乐榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526183526162247.png",
+                "rankid": 59900,
+                "children": [],
+                "bannerurl": "",
+                "intro": "数据来源：纯音乐歌曲\r\n排序方式：纯音乐歌曲偏好用户中，按歌曲日均喜爱用户数排序\r\n更新频率：每周四",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220129\/20220129173113369894.jpg",
+                "play_times": 74451,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526183524891066.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 5,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周四",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526183522710866.png",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "森林贩卖店",
+                        "author": "颜轻柔",
+                        "songname": "颜轻柔 - 森林贩卖店"
+                    },
+                    {
+                        "name": "晚风与盛夏的温柔",
+                        "author": "颜轻柔",
+                        "songname": "颜轻柔 - 晚风与盛夏的温柔"
+                    },
+                    {
+                        "name": "时间踏风而来",
+                        "author": "颜轻柔",
+                        "songname": "颜轻柔 - 时间踏风而来"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526183519432036.jpg"
+            },
+            {
+                "rank_cid": 67724,
+                "id": 337,
+                "rankname": "古典榜",
+                "jump_url": "",
+                "banner_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526184422104700.png",
+                "rankid": 59899,
+                "children": [],
+                "bannerurl": "",
+                "intro": "数据来源：古典歌曲\r\n排序方式：按歌曲日均喜爱用户数排序\r\n更新频率：每周四",
+                "show_play_count": 1,
+                "isvol": 1,
+                "album_img_9": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20150718\/20150718050119414894.jpg",
+                "play_times": 6091,
+                "img_9": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526184419895100.jpg",
+                "custom_type": 0,
+                "ranktype": 1,
+                "classify": 5,
+                "zone": "tx6_gz_kmr",
+                "update_frequency": "周四",
+                "banner7url": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526184417553813.png",
+                "jump_title": "",
+                "haschildren": 0,
+                "show_play_button": 0,
+                "issue": 10,
+                "img_cover": "",
+                "songinfo": [
+                    {
+                        "name": "Piece of the Storm",
+                        "author": "Jon Schmidt",
+                        "songname": "Jon Schmidt - Piece of the Storm"
+                    },
+                    {
+                        "name": "Clementi : Sonatine Op.36, No.1 1st Mov",
+                        "author": "Various Artists",
+                        "songname": "Various Artists - Clementi : Sonatine Op.36, No.1 1st Mov"
+                    },
+                    {
+                        "name": "莫扎特胎教音乐 小星星变奏曲 (小星星变奏曲)",
+                        "author": "jaycd",
+                        "songname": "jaycd - 莫扎特胎教音乐 小星星变奏曲 (小星星变奏曲)"
+                    }
+                ],
+                "imgurl": "http:\/\/imge.kugou.com\/mcommon\/{size}\/20220526\/20220526184414773878.jpg"
+            }
+        ]
+    },
+    "__Tpl": "rank\/list.html"
+}
